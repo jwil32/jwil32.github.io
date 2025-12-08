@@ -16,7 +16,7 @@ timezone:
 
 title: jwil32 # the main title
 
-tagline: Technology/Cybersecurity blog of my personal learning # it will display as the subtitle
+tagline: Personal technology/cybersecurity blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A technology/cybersecurity blog to document and share my personal learning journey.
