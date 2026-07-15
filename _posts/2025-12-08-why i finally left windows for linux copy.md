@@ -1,13 +1,14 @@
 ---
-title: "Why I Finally Ditched Windows: An Escape From Forced AI"
+title: "Why I Finally Deleted Windows 11"
 date: 2025-12-08 08:00:00
+last_modified_at: 2026-07-14
 categories: [Blog]
 comments: false
 tags: [linux, windows, ai, os, linux mint, gaming, privacy]     # TAG names should always be lowercase
 ---
 
 ## The Last Straw
-So, what pushed me over the edge? AI. Specifically, Microsoft's insistence on pushing unwanted AI features onto my personal devices. So, after years of toying around with the idea, I finally took the leap and replaced Windows with Linux on my primary desktop.
+What finally convinced me to delete Windows from my personal computers? AI. Specifically, Microsoft's insistence on pushing unwanted AI features onto my personal devices. So, after years of toying around with the idea, I finally took the leap and replaced Windows with Linux on my primary desktop.
 
 About a month ago, I found myself reading the most recent release notes for Windows 11, and realized that almost every change or update was some AI feature. Sure, there were a few mentions of bug fixes and security patches, but everything else was "Copilot this" and "AI component that." That bothered me for two main reasons:
 1. Privacy: remember Microsoft Recall? Exactly. I want my personal data and files to stay private, and having built-in AI agents with direct access to my system is the complete opposite of that.
