@@ -1,7 +1,7 @@
 ---
 title: "Why I Finally Deleted Windows 11"
 date: 2025-12-08 08:00:00
-last_modified_at: 2026-07-14
+last_modified_at: 2026-07-14 20:10:00
 categories: [Blog]
 comments: false
 tags: [linux, windows, ai, os, linux mint, gaming, privacy]     # TAG names should always be lowercase
