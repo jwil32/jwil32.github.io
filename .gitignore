@@ -11,6 +11,10 @@ _site
 # RubyGems
 *.gem
 
+# Python venv and cache
+.venv
+__pycache__
+
 # NPM dependencies
 node_modules
 package-lock.json
