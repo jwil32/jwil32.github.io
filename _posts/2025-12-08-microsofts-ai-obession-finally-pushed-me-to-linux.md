@@ -1,13 +1,12 @@
 ---
 title: "Microsoft's AI Obsession Finally Pushed Me to Linux Full-Time"
 date: 2025-12-08 08:00:00
-last_modified_at: 2026-07-18 08:00:00
+last_modified_at: 2026-08-31 08:00:00
 categories: [Blog]
 comments: false
 tags: [linux, windows, ai, os, linux mint, gaming, privacy]     # TAG names should always be lowercase
 ---
 
-## The Breaking Point: AI
 What finally made me delete Windows from my personal computers? AI. Specifically, Microsoft's insistence on pushing unwanted AI features onto my personal desktop. So, after years of toying around with the idea, I finally took the leap and replaced Windows with Linux as my primary and only operating system.
 
 About a month ago, I was reading the most recent release notes for Windows 11 and realized that almost every change or update was a new AI feature. Sure, there were a few mentions of bug fixes and security patches, but everything else was "Copilot this" and "AI component that." This bothered me for two reasons:
